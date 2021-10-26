@@ -28,5 +28,5 @@
   {"date": "2022-12-24", "name": "聖誕節前日", "mandatory": false},
   {"date": "2022-12-25", "name": "聖誕節", "mandatory": false},
   {"date": "2022-12-26", "name": "聖誕節前日的補假", "mandatory": false},
-  {"date": "2022-12-27", "name": "聖誕節的補假" "mandatory": false}
+  {"date": "2022-12-27", "name": "聖誕節的補假", "mandatory": false}
 ]
